@@ -8,8 +8,6 @@ A voice assistant in banking that helps you handle your financial operations.
 
 - Check your checking or savings account
 - Transfer money from an account to another one
-
-### Work in progress 
 - Check NASDAQ stock market's values
 
 ## Technologies : 
